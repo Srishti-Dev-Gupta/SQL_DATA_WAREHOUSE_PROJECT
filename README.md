@@ -194,7 +194,9 @@ The Gold Layer supports:
 
 ## 🙌 Acknowledgements
 
-This project is based on a guided data engineering tutorial and enhanced with additional structure and documentation.
+This project was built as part of a guided data engineering learning journey.
+
+Special thanks to **Mr. Baraa Khatib Salkini** for his mentorship and for providing clear guidance on building modern data warehouse architectures using SQL Server.
 
 ---
 
